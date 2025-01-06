@@ -11,7 +11,7 @@ import cassio
 # AstraDB Configuration
 ASTRA_DB_ID="600e85f6-8602-41b8-81f3-dc7d61545b3e"
 ASTRA_DB_APPLICATION_TOKEN=""
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 cassio.init(
     database_id=ASTRA_DB_ID,
