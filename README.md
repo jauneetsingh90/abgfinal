@@ -1,3 +1,5 @@
+**This application is a chatbot app on the pdf/reports which has lot of tables/graphs**
+
 **Secrets**
 create a secret file by adding .streamlit/secrets.toml like
 OPENAI_API_KEY="xyz"
