@@ -1,0 +1,9 @@
+pdf2image
+langchain_community
+astrapy
+cassio
+tiktoken
+google_genai
+streamlit
+openai
+google_generativeai
